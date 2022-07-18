@@ -39,17 +39,17 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.owner = ['Didula Rashmika']
+global.owner = ['Gayantha Prabod']
 
-global.premium = ['💗Queen Ashiya🧚']
+global.premium = ['💗Lucifer Md🧚']
 
-global.ownernomer = '94741671668'
+global.ownernomer = '94760643933'
 
-global.ownername = 'Didula Rashmika'
+global.ownername = 'Gayantha Prabod'
 
-global.botname = '💗Queen Ashiya🧚'
+global.botname = '💗Lucifer Md🧚'
 
-global.footer = '©💗Queen Ashiya🧚.'
+global.footer = '©💗Lucifer Md🧚.'
 
 global.ig = 'https://github.com/BlackPant'
 
@@ -59,9 +59,9 @@ global.sc = 'https://github.com/BlackPanther-svg/Queen-Ashiya'
 
 global.myweb = 'https://youtube.com/channel/UChP2lplECA2eZGCYLy_QeRA'
 
-global.packname = '💗Queen Ashiya🧚'
+global.packname = '💗Lucifer Md🧚'
 
-global.author = '💗Queen Ashiya🧚'
+global.author = '💗Lucifer Md🧚'
 
 global.sessionName = 'session'
 
